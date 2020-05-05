@@ -11,5 +11,3 @@ Step 3 - Run following commands
  (If you are using this second command then copy the container id and use it in next command after port numbers)    
  
  ### sudo docker run -p 8080:8080 <your_docker_user_name>/DockerWebApp  
-
-Mentor : Vimal Daga
